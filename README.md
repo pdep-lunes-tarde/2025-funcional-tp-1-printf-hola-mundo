@@ -2,14 +2,14 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: **printf("Hola mundo")**
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **204.106-6** 
+- Nombre: **Kevin E. Suarez**
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **167.938-7** 
+- Nombre: **Gabriel Franco Chocobar**
 
 
 ## Objetivos
